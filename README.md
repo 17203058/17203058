@@ -22,7 +22,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Human
 - 🔭 I’m currently working on c3NvbWUgZXNwb3J0IG1hbmFnZW1lbnQgYXBw
 - 🌱 I’m currently learning **E3LWu45/8kPqbPSi5xdjm8WNdTYp7M6zpWd+QatOlok=**
 - 👯 I’m looking to fwQWrvSUZAWpfdQF6ytxSw==
