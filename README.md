@@ -4,12 +4,12 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Read me made simple"</b></h4>
+<!--   <h4 align="center"><b>"Read me made simple"</b></h4>
 </p>
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/17203058" />
-</p>
+</p> -->
 
 <p align="center">
 <br>
@@ -26,9 +26,9 @@
 - 🔭 I’m currently working on c3NvbWUgZXNwb3J0IG1hbmFnZW1lbnQgYXBw
 - 🌱 I’m currently learning **E3LWu45/8kPqbPSi5xdjm8WNdTYp7M6zpWd+QatOlok=**
 - 👯 I’m looking to fwQWrvSUZAWpfdQF6ytxSw==
-- 🥅 2023 Goals: H680n8yoRFyCG9cd1vBKzg==
+- 🥅 2024 Goals: H680n8yoRFyCG9cd1vBKzg==
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!]
+- 📬 How to reach me: tech@unikomi.com
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: build a w7ON20RQuH4DaxiR5USiFw==
 
